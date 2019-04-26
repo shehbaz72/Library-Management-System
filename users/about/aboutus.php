@@ -7,7 +7,7 @@
 
         <div><br>
             <h4>Contact Details</h4>
-            <p><b>E-Mail: </b>jarvisapollo23@gmail.com <br>
+            <p><b>E-Mail: </b>admin23@gmail.com <br>
             <b>Contact No.: </b>079 263872 <br>
             <b>Address: </b> State Central Library, Sector 17, Gandhinagar 382017.<br>
             </p>
