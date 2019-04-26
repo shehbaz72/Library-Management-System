@@ -26,7 +26,7 @@ if (isset($_REQUEST['send'])) {
 
 
     if ($noerror) {
-        $to = "jarvisapollo23@gmail.com";
+        $to = "admin23@gmail.com";
         if(mail($to, $sub, $msg, $mail)); {
             ?>
             <script>
