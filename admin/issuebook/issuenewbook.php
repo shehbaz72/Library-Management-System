@@ -34,7 +34,7 @@ if (isset($_REQUEST['submit'])) {
             $to = $email;
             $subject = "Book Issue By Your Account";
             $message = "Congratulations your book is issued.You return this book before:-". date('Y-m-d', strtotime(' + 15 days'));
-            $headers = "jarvisapollo23@gmail.com";
+            $headers = "admin23@gmail.com";
             if (mail($to, $subject, $message, $headers)) {
                 ?>
                 <script>
