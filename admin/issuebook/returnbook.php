@@ -15,7 +15,7 @@ if (isset($_REQUEST['submit'])) {
         $to = $email['email'];
         $subject = "Your book is returned";
         $message = "Congratulations your book is returned. Fine is :-" . $fine;
-        $headers = "jarvisapollo23@gmail.com";
+        $headers = "admin23@gmail.com";
         if(mail($to, $subject, $message, $headers)); {
             
             ?>
